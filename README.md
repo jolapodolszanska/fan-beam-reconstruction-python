@@ -1,6 +1,6 @@
 ## O repozytorium
 
-Repozytorium wprowadza do rekonstrukcji obrazu z projekcji z zastosowaniem wiązki równoległej promieniowania. Kod został opracowany w oparciu o framework DAPHNE. Repozytorium jest częścią wpisu na blogu: https://medycznie-w-it.blogspot.com/2023/03/rekonstrukcja-wiazka-wachlarzowa-z.html 
+Repozytorium wprowadza do rekonstrukcji obrazu z projekcji z zastosowaniem wiązki wachlarzowej promieniowania. Kod został opracowany w oparciu o framework DAPHNE. Repozytorium jest częścią wpisu na blogu: https://medycznie-w-it.blogspot.com/2023/03/rekonstrukcja-wiazka-wachlarzowa-z.html 
 
 <p align="center">
   <img height="450" src="pic/Screenshot_2.png">
